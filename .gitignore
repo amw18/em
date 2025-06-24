@@ -1,0 +1,6 @@
+# Object files
+*.o
+# Executables
+eub_monitor
+# Build folders
+/build/
